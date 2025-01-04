@@ -3,7 +3,7 @@ Here is a brief README file description for the given Python apps:
 This repository contains Python codes for managing and storing different types of content such as books, games, and music. Each application provides a user-friendly interface that allows users to add, update, delete, and sort data based on various criteria like title, genre, and status. The data is saved in JSON format, enabling users to load, save, and track their desired data. Whether you're managing a collection of books, games, music, or films and TV shows, these applications simplify media organization and analysis by offering features like search, sorting, and statistics.
 
 One of the zip files contains the following content.
-###### ** `film and series.zip: `**
+###### `film and series.zip: `
 # Film and TV Show Tracking Application
 
 This application allows users to manage a list of films and TV shows they are watching or planning to watch. It provides an interface for adding, updating, deleting, and filtering items based on various criteria such as title, genre, status, rating, theme, and description.
